@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/say-my-name/static/css/main.32626628.css",
+    "main.js": "/say-my-name/static/js/main.2107c218.js",
+    "static/js/453.55a60be8.chunk.js": "/say-my-name/static/js/453.55a60be8.chunk.js",
+    "index.html": "/say-my-name/index.html",
+    "main.32626628.css.map": "/say-my-name/static/css/main.32626628.css.map",
+    "main.2107c218.js.map": "/say-my-name/static/js/main.2107c218.js.map",
+    "453.55a60be8.chunk.js.map": "/say-my-name/static/js/453.55a60be8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32626628.css",
+    "static/js/main.2107c218.js"
+  ]
+}
